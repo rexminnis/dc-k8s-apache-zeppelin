@@ -1,1 +1,1 @@
-# dc-k8s-apache-zepplin
+# dc-k8s-apache-zeppelin
